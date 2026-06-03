@@ -1,0 +1,49 @@
+.cabecalho{
+    display:flex;
+    justify-content: space-between
+    aling-items: center;
+}
+
+.cabecalho-titulo{
+    color:black
+
+}
+
+
+
+
+
+
+.cabecalho-menu-item
+
+
+
+
+
+
+
+.cabecalho-menu-botao{
+    background-color:black
+    color: #fff;
+    border:none;
+    padding:8px 16px;
+    border-radius: 20px;
+    cursor:pointer;
+    font: weight 600px;
+    font-size: 0.9rem;
+    transition:transform 0.2s;
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+
+}
